@@ -24,6 +24,7 @@ public class HelloWorld {
 		{
 			System.out.println(k+" ");
 		}
+		System.out.println("那就随便改改咯.");
 //		ArrayList<String>a = new ArrayList<String>();
 //		a.add("first");
 //		a.add("second");
